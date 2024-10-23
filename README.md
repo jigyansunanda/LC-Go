@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/jigyansunanda/LC-Go/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/jigyansunanda/LC-Go/tree/master/1236-n-th-tribonacci-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/jigyansunanda/LC-Go/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2032-largest-odd-number-in-string](https://github.com/jigyansunanda/LC-Go/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/jigyansunanda/LC-Go/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/jigyansunanda/LC-Go/tree/master/2083-three-divisors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/jigyansunanda/LC-Go/tree/master/2288-count-operations-to-obtain-zero) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/jigyansunanda/LC-Go/tree/master/0412-fizz-buzz) |
+| [2032-largest-odd-number-in-string](https://github.com/jigyansunanda/LC-Go/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -85,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2083-three-divisors](https://github.com/jigyansunanda/LC-Go/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/jigyansunanda/LC-Go/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/jigyansunanda/LC-Go/tree/master/2507-number-of-common-factors) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/jigyansunanda/LC-Go/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
