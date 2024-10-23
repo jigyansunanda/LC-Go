@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/jigyansunanda/LC-Go/tree/master/1236-n-th-tribonacci-number) |
 | [2083-three-divisors](https://github.com/jigyansunanda/LC-Go/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/jigyansunanda/LC-Go/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/jigyansunanda/LC-Go/tree/master/2507-number-of-common-factors) |
 | [2630-alternating-digit-sum](https://github.com/jigyansunanda/LC-Go/tree/master/2630-alternating-digit-sum) |
 ## Bit Manipulation
 |  |
@@ -67,9 +68,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/jigyansunanda/LC-Go/tree/master/2083-three-divisors) |
+| [2507-number-of-common-factors](https://github.com/jigyansunanda/LC-Go/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/jigyansunanda/LC-Go/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/jigyansunanda/LC-Go/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/jigyansunanda/LC-Go/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
