@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/jigyansunanda/LC-Go/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/jigyansunanda/LC-Go/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/jigyansunanda/LC-Go/tree/master/1236-n-th-tribonacci-number) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/jigyansunanda/LC-Go/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/jigyansunanda/LC-Go/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/jigyansunanda/LC-Go/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/jigyansunanda/LC-Go/tree/master/2507-number-of-common-factors) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jigyansunanda/LC-Go/tree/master/0268-missing-number) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/jigyansunanda/LC-Go/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
