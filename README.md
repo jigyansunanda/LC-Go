@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/jigyansunanda/LC-Go/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/jigyansunanda/LC-Go/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/jigyansunanda/LC-Go/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/jigyansunanda/LC-Go/tree/master/0231-power-of-two) |
