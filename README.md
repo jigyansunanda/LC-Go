@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/jigyansunanda/LC-Go/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/jigyansunanda/LC-Go/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jigyansunanda/LC-Go/tree/master/0268-missing-number) |
 ## Recursion
@@ -94,4 +95,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/jigyansunanda/LC-Go/tree/master/2032-largest-odd-number-in-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/jigyansunanda/LC-Go/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
