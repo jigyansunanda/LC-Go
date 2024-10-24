@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/jigyansunanda/LC-Go/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/jigyansunanda/LC-Go/tree/master/0412-fizz-buzz) |
 | [2032-largest-odd-number-in-string](https://github.com/jigyansunanda/LC-Go/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/jigyansunanda/LC-Go/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jigyansunanda/LC-Go/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/jigyansunanda/LC-Go/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jigyansunanda/LC-Go/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
