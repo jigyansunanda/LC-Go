@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jigyansunanda/LC-Go/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/jigyansunanda/LC-Go/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/jigyansunanda/LC-Go/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/jigyansunanda/LC-Go/tree/master/1013-fibonacci-number) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jigyansunanda/LC-Go/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/jigyansunanda/LC-Go/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/jigyansunanda/LC-Go/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jigyansunanda/LC-Go/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -111,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jigyansunanda/LC-Go/tree/master/0438-find-all-anagrams-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jigyansunanda/LC-Go/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
