@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0242-valid-anagram](https://github.com/jigyansunanda/LC-Go/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/jigyansunanda/LC-Go/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jigyansunanda/LC-Go/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/jigyansunanda/LC-Go/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0242-valid-anagram](https://github.com/jigyansunanda/LC-Go/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jigyansunanda/LC-Go/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jigyansunanda/LC-Go/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/jigyansunanda/LC-Go/tree/master/0191-number-of-1-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jigyansunanda/LC-Go/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
