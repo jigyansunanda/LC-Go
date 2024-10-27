@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jigyansunanda/LC-Go/tree/master/0053-maximum-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/jigyansunanda/LC-Go/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/jigyansunanda/LC-Go/tree/master/0268-missing-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/jigyansunanda/LC-Go/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jigyansunanda/LC-Go/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/jigyansunanda/LC-Go/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/jigyansunanda/LC-Go/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/jigyansunanda/LC-Go/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jigyansunanda/LC-Go/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jigyansunanda/LC-Go/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Backtracking
 |  |
@@ -123,4 +126,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/jigyansunanda/LC-Go/tree/master/0633-sum-of-square-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jigyansunanda/LC-Go/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
