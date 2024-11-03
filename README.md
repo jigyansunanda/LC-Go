@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jigyansunanda/LC-Go/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/jigyansunanda/LC-Go/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/jigyansunanda/LC-Go/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -140,4 +141,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/jigyansunanda/LC-Go/tree/master/0374-guess-number-higher-or-lower) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jigyansunanda/LC-Go/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
