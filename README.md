@@ -150,5 +150,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0092-reverse-linked-list-ii](https://github.com/jigyansunanda/LC-Go/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/jigyansunanda/LC-Go/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jigyansunanda/LC-Go/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/jigyansunanda/LC-Go/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/jigyansunanda/LC-Go/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
