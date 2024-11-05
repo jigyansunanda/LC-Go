@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jigyansunanda/LC-Go/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/jigyansunanda/LC-Go/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/jigyansunanda/LC-Go/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jigyansunanda/LC-Go/tree/master/0070-climbing-stairs) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jigyansunanda/LC-Go/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jigyansunanda/LC-Go/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/jigyansunanda/LC-Go/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/jigyansunanda/LC-Go/tree/master/0231-power-of-two) |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jigyansunanda/LC-Go/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jigyansunanda/LC-Go/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/jigyansunanda/LC-Go/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/jigyansunanda/LC-Go/tree/master/0206-reverse-linked-list) |
