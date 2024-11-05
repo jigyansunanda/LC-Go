@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jigyansunanda/LC-Go/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/jigyansunanda/LC-Go/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/jigyansunanda/LC-Go/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/jigyansunanda/LC-Go/tree/master/0268-missing-number) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jigyansunanda/LC-Go/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jigyansunanda/LC-Go/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/jigyansunanda/LC-Go/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/jigyansunanda/LC-Go/tree/master/0268-missing-number) |
