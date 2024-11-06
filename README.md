@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jigyansunanda/LC-Go/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/jigyansunanda/LC-Go/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/jigyansunanda/LC-Go/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jigyansunanda/LC-Go/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/jigyansunanda/LC-Go/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/jigyansunanda/LC-Go/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/jigyansunanda/LC-Go/tree/master/0792-binary-search) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jigyansunanda/LC-Go/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jigyansunanda/LC-Go/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/jigyansunanda/LC-Go/tree/master/0191-number-of-1-bits) |
 ## Sliding Window
 |  |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/jigyansunanda/LC-Go/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jigyansunanda/LC-Go/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jigyansunanda/LC-Go/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -182,4 +185,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/jigyansunanda/LC-Go/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jigyansunanda/LC-Go/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jigyansunanda/LC-Go/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jigyansunanda/LC-Go/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
