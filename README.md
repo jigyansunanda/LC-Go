@@ -162,4 +162,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/jigyansunanda/LC-Go/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/jigyansunanda/LC-Go/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/jigyansunanda/LC-Go/tree/master/0908-middle-of-the-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jigyansunanda/LC-Go/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jigyansunanda/LC-Go/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jigyansunanda/LC-Go/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jigyansunanda/LC-Go/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
