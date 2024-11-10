@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jigyansunanda/LC-Go/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/jigyansunanda/LC-Go/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/jigyansunanda/LC-Go/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/jigyansunanda/LC-Go/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/jigyansunanda/LC-Go/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/jigyansunanda/LC-Go/tree/master/0412-fizz-buzz) |
@@ -217,4 +218,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jigyansunanda/LC-Go/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jigyansunanda/LC-Go/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jigyansunanda/LC-Go/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
