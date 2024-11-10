@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jigyansunanda/LC-Go/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/jigyansunanda/LC-Go/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jigyansunanda/LC-Go/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/jigyansunanda/LC-Go/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jigyansunanda/LC-Go/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jigyansunanda/LC-Go/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jigyansunanda/LC-Go/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/jigyansunanda/LC-Go/tree/master/0027-remove-element) |
 | [0633-sum-of-square-numbers](https://github.com/jigyansunanda/LC-Go/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/jigyansunanda/LC-Go/tree/master/0908-middle-of-the-linked-list) |
 ## Prefix Sum
