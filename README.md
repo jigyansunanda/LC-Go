@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/jigyansunanda/LC-Go/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/jigyansunanda/LC-Go/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jigyansunanda/LC-Go/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/jigyansunanda/LC-Go/tree/master/0072-edit-distance) |
 | [1013-fibonacci-number](https://github.com/jigyansunanda/LC-Go/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/jigyansunanda/LC-Go/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/jigyansunanda/LC-Go/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/jigyansunanda/LC-Go/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/jigyansunanda/LC-Go/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/jigyansunanda/LC-Go/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/jigyansunanda/LC-Go/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/jigyansunanda/LC-Go/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jigyansunanda/LC-Go/tree/master/0438-find-all-anagrams-in-a-string) |
