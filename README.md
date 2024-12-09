@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/jigyansunanda/LC-Go/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/jigyansunanda/LC-Go/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/jigyansunanda/LC-Go/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/jigyansunanda/LC-Go/tree/master/0907-koko-eating-bananas) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/jigyansunanda/LC-Go/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/jigyansunanda/LC-Go/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/jigyansunanda/LC-Go/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/jigyansunanda/LC-Go/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/jigyansunanda/LC-Go/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
