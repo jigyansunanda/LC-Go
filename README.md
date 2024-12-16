@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jigyansunanda/LC-Go/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/jigyansunanda/LC-Go/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/jigyansunanda/LC-Go/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2665-minimum-time-to-repair-cars](https://github.com/jigyansunanda/LC-Go/tree/master/2665-minimum-time-to-repair-cars) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jigyansunanda/LC-Go/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jigyansunanda/LC-Go/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/jigyansunanda/LC-Go/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [2665-minimum-time-to-repair-cars](https://github.com/jigyansunanda/LC-Go/tree/master/2665-minimum-time-to-repair-cars) |
 ## Sorting
 |  |
 | ------- |
